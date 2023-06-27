@@ -1,2 +1,3 @@
 # git-fork-case
-Repository for git fork case.
+Репозиторий изначально форкнутый у yandex-praktikuma, но теперь здесь я практикую всякую-всячину.  
+
