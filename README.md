@@ -1,3 +1,3 @@
 # git-fork-case
-#1 Repository for git fork case.
-#2 version1 branch
+## Repository for git fork case.
+*version1 branch*
